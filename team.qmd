@@ -1,0 +1,13 @@
+---
+title: "Teaching Team"
+---
+
+::: tip
+Mitchell O'Hara-Wild
+:github: @mitchelloharawild
+:::
+
+::: tip
+Patrick Li
+:github: @TengMCing
+:::

@@ -1,0 +1,64 @@
+---
+title: "Interactive web applications<br> with Shiny for R"
+---
+
+![](images/shiny.svg){style="float:right;padding: 0 0 0 10px;" fig-alt="Shiny Hex Logo" width="175"}
+
+## Course Overview
+
+This three hour workshop provides the basics of creating interactive web applications in R using Shiny. It consists of three sessions that cover the basics of creating a UI, writing server code with reactive programming and publishing your application.
+
+## Learning objectives
+
+-   Learn the basics of Shiny applications
+-   Create a simple user interface including dashboards
+-   Understand reactive programming for Shiny server code
+-   Publish applications online with docker and/or [shinyapps.io](https://www.shinyapps.io/)
+
+# Instructor
+
+![](images/mitch.jpeg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Mitchell O'Hara-Wild" width="200"}
+[**Mitchell O'Hara-Wild**](https://mitchelloharawild.com/) (he/him) is an award-winning teaching associate and research assistant at Monash University with particular expertise in R package development, data analysis and statistical computing. He holds a Bachelor of Commerce (Honours) with a major in econometrics, and a Bachelor of Science majoring in computational science and mathematical statistics. Mitchell is the developer of several widely used R packages and operates a data consultancy which runs workshops and provides data analysis and tools. 
+
+<div align="center">
+<a href="https://www.mitchelloharawild.com.com"><img border="0" alt="Blog" src="https://assets.dryicons.com/uploads/icon/svg/4926/home.svg" width="35" height="35"></a>&ensp;
+<a href="https://github.com/mitchelloharawild"><img border="0" alt="Github" src="https://assets.dryicons.com/uploads/icon/svg/8312/cc33248a-e56e-4e7f-93f4-0e16350e5768.svg" width="35" height="35"></a>&ensp; 
+<a href="https://twitter.com/mitchoharawild"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="35" height="35"></a>&ensp; 
+<a href="https://www.linkedin.com/in/mitchelloharawild/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="35" height="35"></a>&ensp;&emsp;
+</div>
+
+
+# Preparation
+
+The workshop will cover the basics of creating shiny web applications. There is no need for prior experience in website development or shiny is required to get the most out of this workshop. Familiarity with writing R code is expected, and being comfortable with using tidyverse packages including dplyr and ggplot2 would be beneficial. If you are unfamiliar with writing R code or using the tidyverse, consider working through the learnr materials here: <https://learnr.numbat.space/>.
+
+A [shinyapps.io](https://www.shinyapps.io/) account is needed to deploy your app to <https://www.shinyapps.io/> in session 3 (but is not required if you just want to watch this part).
+
+## Required equipment
+
+Just a computer capable of running R and an internet connection! 💻
+This workshop will be ran online, so no other equipment is needed.
+
+## Required software
+
+To be able to complete the exercises of this workshop, please make sure to install a suitable IDE (such as RStudio), a recent version of R (4.1+) and the following packages.
+
+-   **Shiny packages and extensions**
+    -   shiny
+-   **tidyverse packages and friends**
+    -   ggplot2, readr, tibble, dplyr, tidyr
+-   **data packages**
+    -   palmerpenguins
+
+Run this code to install the packages if needed:
+
+```{r}
+#| eval: false
+packages <- c(
+  "shiny",
+  "ggplot2", "readr", "tibble", "tidyr",
+  "palmerpenguins"
+)
+
+install.packages(setdiff(packages, rownames(installed.packages())))  
+```
