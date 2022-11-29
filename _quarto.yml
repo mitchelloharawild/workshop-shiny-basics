@@ -11,7 +11,7 @@ website:
   page-navigation: true
   title: "Shiny web applications"
   description: "Homepage for WOMBAT 2022 workshop"
-  site-url: "#"
+  site-url: "https://workshop.mitchelloharawild.com/shiny-basics"
   
   repo-url: https://github.com/mitchelloharawild/shiny-basics
   repo-actions: [edit, issue]
