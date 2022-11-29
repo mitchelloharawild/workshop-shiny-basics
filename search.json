@@ -4,7 +4,7 @@
     "href": "index.html#course-overview",
     "title": "Interactive web applications with Shiny for R",
     "section": "Course Overview",
-    "text": "Course Overview\nThis three hour workshop provides the basics of creating interactive web applications in R using Shiny. It consists of three sessions that cover the basics of creating a UI, writing server code with reactive programming and publishing your application.\nThis workshop is part of the WOMBAT 2022 event, and will run online on Tuesday 7th December 2022 from 1PM - 4PM AEDT."
+    "text": "Course Overview\nThis three hour workshop provides the basics of creating interactive web applications in R using Shiny. It consists of three sessions that cover the basics of creating a UI, writing server code with reactive programming and publishing your application.\nThis workshop is part of the WOMBAT 2022 event, and will run online on Tuesday 6th December 2022 from 1PM - 4PM AEDT."
   },
   {
     "objectID": "index.html#learning-objectives",
@@ -18,7 +18,7 @@
     "href": "index.html#required-equipment",
     "title": "Interactive web applications with Shiny for R",
     "section": "Required equipment",
-    "text": "Required equipment\nJust a computer capable of running R and an internet connection! 💻 This workshop will be ran online, so no other equipment is needed."
+    "text": "Required equipment\nJust a computer capable of running R and an internet connection! 💻\nThis workshop will be ran online, so no other equipment is needed."
   },
   {
     "objectID": "index.html#required-software",
