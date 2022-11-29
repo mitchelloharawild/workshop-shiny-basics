@@ -41,8 +41,7 @@ programming and publishing your application.
 | 13:45 - 14:00 | Break 1 - Creating your first app |
 | 14:00 - 15:00 | Session 2 - Reactive programming  |
 | 15:00 - 15:15 | Break 2 - Shiny Q & A             |
-| 15:15 - 15:45 | Session 2 - Reactive programming  |
-| 15:45 - 16:00 | Break 3 - Deploying apps, Q & A   |
+| 15:15 - 16:00 | Session 3 - Publishing apps       |
 
 # Requirements
 
