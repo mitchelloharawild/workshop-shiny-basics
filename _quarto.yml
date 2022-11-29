@@ -37,6 +37,8 @@ website:
       - icon: download
         text: Downloads
         menu: 
+          - text: Everything! Including this website!
+            href: 'https://github.com/mitchelloharawild/shiny-basics/archive/refs/heads/main.zip'
           - text: All Course Materials
             href: '#'
           - text: Demonstrated Shiny Applications
@@ -45,7 +47,6 @@ website:
         href: license.qmd
       - icon: github
         href: https://github.com/mitchelloharawild/shiny-basics
-        text: GitHub
     left:
       - text: Sessions
         menu: 
