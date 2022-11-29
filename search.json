@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "Interactive web applications with Shiny for R",
+    "section": "Course Overview",
+    "text": "Course Overview\nThis three hour workshop provides the basics of creating interactive web applications in R using Shiny. It consists of three sessions that cover the basics of creating a UI, writing server code with reactive programming and publishing your application.\nThis workshop is part of the WOMBAT 2022 event, and will run online on Tuesday 7th December 2022 from 1PM - 4PM AEDT."
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Interactive web applications with Shiny for R",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nLearn the basics of Shiny applications\nCreate a simple user interface including dashboards\nUnderstand reactive programming for Shiny server code\nPublish applications online with docker and/or shinyapps.io"
+  },
+  {
+    "objectID": "index.html#required-equipment",
+    "href": "index.html#required-equipment",
+    "title": "Interactive web applications with Shiny for R",
+    "section": "Required equipment",
+    "text": "Required equipment\nJust a computer capable of running R and an internet connection! 💻 This workshop will be ran online, so no other equipment is needed."
+  },
+  {
+    "objectID": "index.html#required-software",
+    "href": "index.html#required-software",
+    "title": "Interactive web applications with Shiny for R",
+    "section": "Required software",
+    "text": "Required software\nTo be able to complete the exercises of this workshop, please make sure to install a suitable IDE (such as RStudio), a recent version of R (4.1+) and the following packages.\n\nShiny packages and extensions\n\nshiny\n\ntidyverse packages and friends\n\nggplot2, readr, tibble, dplyr, tidyr\n\ndata packages\n\npalmerpenguins\n\n\nRun this code to install the packages if needed:\n\npackages <- c(\n  \"shiny\",\n  \"ggplot2\", \"readr\", \"tibble\", \"tidyr\",\n  \"palmerpenguins\"\n)\n\ninstall.packages(setdiff(packages, rownames(installed.packages())))"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Online, Zoom invitations have been sent to your registration email.\n\n\n\n\n\n\n\n\nTime\n\n\nModule\n\n\n\n\n\n\n\n\n\n13:00-13:45\n\n\nBasics of Shiny\n\n\n\n\n\n\n\n13:45-14:00\n\n\nBreak - Create your shiny app\n\n\n\n\n\n\n\n14:00-15:00\n\n\nReactive programming\n\n\n\n\n\n\n\n15:00-15:15\n\n\nBreak - Shiny Q & A\n\n\n\n\n\n\n\n15:15-16:00\n\n\nPublishing apps\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "sessions/01_basics.html",
+    "href": "sessions/01_basics.html",
+    "title": "Basics of Shiny",
+    "section": "",
+    "text": "Materials will be distributed sooner to the event."
+  },
+  {
+    "objectID": "sessions/01a_break.html",
+    "href": "sessions/01a_break.html",
+    "title": "Break - Create your shiny app",
+    "section": "",
+    "text": "You can use this time to continue creating your first shiny app, ask some questions, or just enjoy the break."
+  },
+  {
+    "objectID": "sessions/02_reactive.html",
+    "href": "sessions/02_reactive.html",
+    "title": "Reactive programming",
+    "section": "",
+    "text": "Materials will be distributed sooner to the event."
+  },
+  {
+    "objectID": "sessions/02a_break.html",
+    "href": "sessions/02a_break.html",
+    "title": "Break - Shiny Q & A",
+    "section": "",
+    "text": "Feel free to ask any questions you might have about Shiny and reactive programming."
+  },
+  {
+    "objectID": "sessions/03_publish.html",
+    "href": "sessions/03_publish.html",
+    "title": "Publishing apps",
+    "section": "",
+    "text": "Materials will be distributed sooner to the event."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Teaching Team",
+    "section": "",
+    "text": "Patrick Li :github: @TengMCing"
+  }
+]
