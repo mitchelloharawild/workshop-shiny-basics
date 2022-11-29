@@ -38,9 +38,9 @@ website:
         text: Downloads
         menu: 
           - text: All Course Materials
-            href: ggplot2-course-material.zip
-          - text: Data Sets
-            href: ggplot2-course-data.zip
+            href: '#'
+          - text: Demonstrated Shiny Applications
+            href: '#'
       - icon: file-certificate
         href: license.qmd
       - icon: github

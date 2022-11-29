@@ -1,0 +1,40 @@
+---
+title: "Basics of Shiny"
+subtitle: "<span class='code'>13:00-13:45</span>"
+date: "2022-12-05"
+image: "images/dashboard.jpg"
+image-alt: "Dashboard"
+---
+
+Materials will be distributed sooner to the event.
+
+<!-- ```{=html} -->
+<!-- <iframe class="slide-deck" src="../materials/03_publish.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe> -->
+<!-- ``` -->
+
+<!-- [View slides in full screen](../materials/03_publish.html) -->
+
+<!-- # Outline -->
+
+<!-- -   A -->
+<!-- -   B -->
+<!--     -   1 -->
+<!--     -   2 -->
+
+<!-- # Recap -->
+
+<!-- ::: recap -->
+<!-- -   A -->
+<!-- -   B -->
+<!-- ::: -->
+
+<!-- # Exercises -->
+
+<!-- ## Exercise 1 -->
+
+<!-- ::: question -->
+<!-- -   A -->
+<!-- -   B -->
+<!-- ::: -->
+
+<!-- **&rarr;&ensp;[Solution](../materials/solutions/03_publish.qmd)** -->

@@ -1,0 +1,12 @@
+---
+title: "Break - Create your shiny app"
+subtitle: "<span class='code'>13:45-14:00</span>"
+date: "2022-12-05"
+image: "images/create.jpg"
+image-alt: "Designing"
+tbl-colwidths: [5,20,75]
+---
+
+Time for a brief break! 
+
+You can use this time to continue creating your first shiny app, ask some questions, or just enjoy the break.
