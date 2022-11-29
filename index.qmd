@@ -8,7 +8,7 @@ title: "Interactive web applications<br> with Shiny for R"
 
 This three hour workshop provides the basics of creating interactive web applications in R using Shiny. It consists of three sessions that cover the basics of creating a UI, writing server code with reactive programming and publishing your application.
 
-This workshop is part of the [WOMBAT 2022](https://numbats.github.io/WOMBAT2022/) event, and will run online on Tuesday 7th December 2022 from 1PM - 4PM AEDT. 
+This workshop is part of the [WOMBAT 2022](https://numbats.github.io/WOMBAT2022/) event, and will run online on Tuesday 6th December 2022 from 1PM - 4PM AEDT. 
 
 ## Learning objectives
 
