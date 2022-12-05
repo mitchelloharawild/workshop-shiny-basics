@@ -40,10 +40,10 @@ website:
         menu: 
           - text: Everything! Including this website!
             href: 'https://github.com/mitchelloharawild/shiny-basics/archive/refs/heads/main.zip'
-          - text: All Course Materials
-            href: '#'
-          - text: Demonstrated Shiny Applications
-            href: '#'
+          - text: Course Materials
+            href: 'materials.zip'
+          - text: Shiny Applications
+            href: 'apps.zip'
       - icon: file-certificate
         href: license.qmd
       - icon: github
