@@ -4,7 +4,7 @@ project:
     - "images/twitter-card.png"
   render:
     - "*.qmd"
-    - "!materials/exercises"
+    - "!materials"
     - "!README.Rmd"
 
 website:
