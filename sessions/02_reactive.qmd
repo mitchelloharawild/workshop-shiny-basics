@@ -7,13 +7,13 @@ image-alt: "Code"
 tbl-colwidths: [5,20,75]
 ---
 
-Materials will be distributed sooner to the event.
+<!-- Materials will be distributed sooner to the event. -->
 
-<!-- ```{=html} -->
-<!-- <iframe class="slide-deck" src="../materials/03_publish.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe> -->
-<!-- ``` -->
+```{=html}
+<iframe class="slide-deck" src="../materials/02_reactive.html" height="420" width="747" style="border: 1px solid #2e3846;"></iframe>
+```
 
-<!-- [View slides in full screen](../materials/03_publish.html) -->
+[View slides in full screen](../materials/02_reactive.html)
 
 <!-- # Outline -->
 
