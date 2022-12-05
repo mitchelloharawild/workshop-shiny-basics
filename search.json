@@ -14,6 +14,20 @@
     "text": "Learning objectives\n\nLearn the basics of Shiny applications\nCreate a simple user interface including dashboards\nUnderstand reactive programming for Shiny server code\nPublish applications online with docker and/or shinyapps.io"
   },
   {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Interactive web applications with Shiny for R",
+    "section": "Instructor",
+    "text": "Instructor\n Mitchell O’Hara-Wild (he/him) is an award-winning teaching associate and research assistant at Monash University with particular expertise in R package development, data analysis and statistical computing. He holds a Bachelor of Commerce (Honours) with a major in econometrics, and a Bachelor of Science majoring in computational science and mathematical statistics. Mitchell is the developer of several widely used R packages and operates a data consultancy which runs workshops and provides data analysis and tools."
+  },
+  {
+    "objectID": "index.html#helper",
+    "href": "index.html#helper",
+    "title": "Interactive web applications with Shiny for R",
+    "section": "Helper",
+    "text": "Helper\n\nPatrick Li is a second-year PhD student in the Department of Econometrics and Business Analytics, Monash University. He is currently working on automated visual inference using computer vision model with Di Cook and Emi Tanaka. His research interests are machine learning, computer vision, data visualisation and statistical software development."
+  },
+  {
     "objectID": "index.html#required-equipment",
     "href": "index.html#required-equipment",
     "title": "Interactive web applications with Shiny for R",
