@@ -35,7 +35,7 @@ This workshop is part of the [WOMBAT 2022](https://numbats.github.io/WOMBAT2022/
 
 ![](images/patrick.jpeg){style="float:right;padding: 0 0 0 10px;" fig-alt="Headshot of Mitchell O'Hara-Wild" width="200"}
 
-[Patrick Li](https://github.com/TengMCing) is a second-year PhD student in the Department of Econometrics and Business Analytics, Monash University. He is currently working on automated visual inference using computer vision model with Di Cook and Emi Tanaka. His research interests are machine learning, computer vision, data visualisation and statistical software development.
+[**Patrick Li**](https://github.com/TengMCing) is a second-year PhD student in the Department of Econometrics and Business Analytics, Monash University. He is currently working on automated visual inference using computer vision model with Di Cook and Emi Tanaka. His research interests are machine learning, computer vision, data visualisation and statistical software development.
 
 <div align="center">
 <a href="https://github.com/TengMCing"><img border="0" alt="Github" src="https://assets.dryicons.com/uploads/icon/svg/8312/cc33248a-e56e-4e7f-93f4-0e16350e5768.svg" width="35" height="35"></a>&ensp; 
