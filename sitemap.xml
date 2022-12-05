@@ -2,42 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://workshop.mitchelloharawild.com/shiny-basics/index.html</loc>
-    <lastmod>2022-12-05T09:22:27.942Z</lastmod>
+    <lastmod>2022-12-05T13:29:40.997Z</lastmod>
   </url>
   <url>
     <loc>https://workshop.mitchelloharawild.com/shiny-basics/license.html</loc>
-    <lastmod>2022-12-05T09:22:28.870Z</lastmod>
-  </url>
-  <url>
-    <loc>https://workshop.mitchelloharawild.com/shiny-basics/resources.html</loc>
-    <lastmod>2022-12-05T09:22:29.754Z</lastmod>
+    <lastmod>2022-12-05T13:29:41.665Z</lastmod>
   </url>
   <url>
     <loc>https://workshop.mitchelloharawild.com/shiny-basics/schedule.html</loc>
-    <lastmod>2022-12-05T09:22:30.806Z</lastmod>
+    <lastmod>2022-12-05T13:29:42.413Z</lastmod>
   </url>
   <url>
     <loc>https://workshop.mitchelloharawild.com/shiny-basics/sessions/01_basics.html</loc>
-    <lastmod>2022-12-05T09:22:31.390Z</lastmod>
+    <lastmod>2022-12-05T13:29:42.997Z</lastmod>
   </url>
   <url>
     <loc>https://workshop.mitchelloharawild.com/shiny-basics/sessions/01a_break.html</loc>
-    <lastmod>2022-12-05T09:22:31.858Z</lastmod>
+    <lastmod>2022-12-05T13:29:43.529Z</lastmod>
   </url>
   <url>
     <loc>https://workshop.mitchelloharawild.com/shiny-basics/sessions/02_reactive.html</loc>
-    <lastmod>2022-12-05T09:22:32.366Z</lastmod>
+    <lastmod>2022-12-05T13:29:44.061Z</lastmod>
   </url>
   <url>
     <loc>https://workshop.mitchelloharawild.com/shiny-basics/sessions/02a_break.html</loc>
-    <lastmod>2022-12-05T09:22:32.870Z</lastmod>
+    <lastmod>2022-12-05T13:29:44.601Z</lastmod>
   </url>
   <url>
     <loc>https://workshop.mitchelloharawild.com/shiny-basics/sessions/03_publish.html</loc>
-    <lastmod>2022-12-05T09:22:33.350Z</lastmod>
+    <lastmod>2022-12-05T13:29:45.209Z</lastmod>
   </url>
   <url>
     <loc>https://workshop.mitchelloharawild.com/shiny-basics/team.html</loc>
-    <lastmod>2022-12-05T09:22:33.946Z</lastmod>
+    <lastmod>2022-12-05T13:29:45.769Z</lastmod>
   </url>
 </urlset>
