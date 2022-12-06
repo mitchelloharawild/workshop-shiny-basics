@@ -8,8 +8,8 @@ server <- function(input, output, session) {
     sprintf("Hello %s", input$name)
   })
   
-  observe({
-    updateTextInput(session, "name", value = toupper(input$name))
-  })
+  # observe({
+  #   updateTextInput(session, "name", value = toupper(input$name))
+  # })
 }
 shinyApp(ui, server)

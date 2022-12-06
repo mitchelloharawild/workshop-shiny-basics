@@ -1,44 +1,24 @@
 library(shiny)
-
 fluidPage(
   titlePanel("Bob Ross painting contents"),
-  
   sidebarLayout(
     sidebarPanel(
-      # Joy of painting image
+      # Joy of painting title image
       img(src = "joy_of_painting.jpg", width = "100%"),
-      
       # Season selector
-      sliderInput("seasons",
-                  "Included seasons:",
+      sliderInput(inputId = "seasons",
+                  label = "Included seasons:",
                   min = min(elements$season),
                   max = max(elements$season),
                   value = range(elements$season))
-    ),
-    
+    ), 
     mainPanel(
-      tabsetPanel( 
-        tabPanel("Plot", 
-                 "Frequency of elements in paintings",
-                 plotOutput("plot_proportion", height = "800px")
-        ), 
-        tabPanel("Table", 
-                 # Table output
-                 "Top 10 most common elements",
-                 tableOutput("data_proportion")
-        ),
-        tabPanel("Secret", 
-                 "Shh!"
-        )
-      )
-      
-      # # Plot output
-      # "Frequency of elements in paintings",
-      # plotOutput("plot_proportion", height = "800px"),
-      # 
-      # # Table output
-      # "Top 10 most common elements",
-      # tableOutput("data_proportion")
-    )
+      # Plot output
+      "Frequency of elements in paintings",
+      plotOutput(outputId = "plot_proportion", height = "800px"),
+      # Table output
+      "Top 10 most common elements",
+      tableOutput(outputId = "data_proportion")
+    ) 
   )
 )
