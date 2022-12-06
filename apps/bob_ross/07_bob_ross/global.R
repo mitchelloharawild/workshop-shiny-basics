@@ -2,6 +2,7 @@ library(dplyr)
 library(tidyr)
 library(readr)
 library(echarts4r)
+library(forcats)
 library(stringr)
 
 # Tidy the data
