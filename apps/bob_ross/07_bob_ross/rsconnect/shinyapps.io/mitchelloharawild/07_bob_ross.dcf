@@ -1,0 +1,13 @@
+name: 07_bob_ross
+title: 07_bob_ross
+username:
+account: mitchelloharawild
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7822882
+bundleId: 6596723
+url: https://mitchelloharawild.shinyapps.io/07_bob_ross/
+when: 1670290095.68656
+lastSyncTime: 1670290095.68658
+asMultiple: FALSE
+asStatic: FALSE
