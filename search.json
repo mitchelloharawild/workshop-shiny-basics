@@ -39,7 +39,7 @@
     "href": "index.html#required-software",
     "title": "Interactive web applications with Shiny for R",
     "section": "Required software",
-    "text": "Required software\nTo be able to complete the exercises of this workshop, please make sure to install a suitable IDE (such as RStudio), a recent version of R (4.1+) and the following packages.\n\nShiny packages and extensions\n\nshiny\n\ntidyverse packages and friends\n\nggplot2, readr, tibble, dplyr, tidyr\n\ndata packages\n\npalmerpenguins\n\n\nRun this code to install the packages if needed:\n\npackages <- c(\n  \"shiny\",\n  \"ggplot2\", \"readr\", \"tibble\", \"tidyr\",\n  \"palmerpenguins\"\n)\n\ninstall.packages(setdiff(packages, rownames(installed.packages())))"
+    "text": "Required software\nTo be able to complete the exercises of this workshop, please make sure to install a suitable IDE (such as RStudio), a recent version of R (4.1+) and the following packages. In order to deploy your app using docker, you will need to install docker from https://docs.docker.com/desktop/\n\nShiny packages and extensions\n\nshiny, shinythemes, echarts4r\n\ntidyverse packages and friends\n\nggplot2, readr, tibble, dplyr, tidyr\n\n\nRun this code to install the packages if needed:\n\npackages <- c(\n  \"shiny\", \"shinythemes\", \"echarts4r\",\n  \"ggplot2\", \"readr\", \"tibble\", \"tidyr\"\n)\n\ninstall.packages(setdiff(packages, rownames(installed.packages())))"
   },
   {
     "objectID": "license.html",
