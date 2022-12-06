@@ -61,23 +61,20 @@ This workshop will be ran online, so no other equipment is needed.
 
 ## Required software
 
-To be able to complete the exercises of this workshop, please make sure to install a suitable IDE (such as RStudio), a recent version of R (4.1+) and the following packages.
+To be able to complete the exercises of this workshop, please make sure to install a suitable IDE (such as RStudio), a recent version of R (4.1+) and the following packages. In order to deploy your app using docker, you will need to install docker from <https://docs.docker.com/desktop/>
 
 -   **Shiny packages and extensions**
-    -   shiny
+    -   shiny, shinythemes, echarts4r
 -   **tidyverse packages and friends**
     -   ggplot2, readr, tibble, dplyr, tidyr
--   **data packages**
-    -   palmerpenguins
 
 Run this code to install the packages if needed:
 
 ```{r}
 #| eval: false
 packages <- c(
-  "shiny",
-  "ggplot2", "readr", "tibble", "tidyr",
-  "palmerpenguins"
+  "shiny", "shinythemes", "echarts4r",
+  "ggplot2", "readr", "tibble", "tidyr"
 )
 
 install.packages(setdiff(packages, rownames(installed.packages())))  
