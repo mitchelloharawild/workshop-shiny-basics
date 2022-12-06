@@ -66,7 +66,7 @@ To be able to complete the exercises of this workshop, please make sure to insta
 -   **Shiny packages and extensions**
     -   shiny, shinythemes, echarts4r
 -   **tidyverse packages and friends**
-    -   ggplot2, readr, tibble, dplyr, tidyr
+    -   ggplot2, readr, tibble, dplyr, tidyr, stringr
 
 Run this code to install the packages if needed:
 
@@ -74,7 +74,7 @@ Run this code to install the packages if needed:
 #| eval: false
 packages <- c(
   "shiny", "shinythemes", "echarts4r",
-  "ggplot2", "readr", "tibble", "tidyr"
+  "ggplot2", "readr", "tibble", "tidyr", "stringr"
 )
 
 install.packages(setdiff(packages, rownames(installed.packages())))  
